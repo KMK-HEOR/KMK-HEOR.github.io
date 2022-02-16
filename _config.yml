@@ -1,1 +1,5 @@
 title: KMK HEOR
+remote_theme: pmarsceill/just-the-docs
+
+exclude: ["README.md"]
+
