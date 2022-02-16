@@ -59,4 +59,16 @@ KMK/Novartis office policies and requirements
   - Performance review expectation:
     - No effect on performance review
 
-### Sick Leave
+### Sick Lleave
+- Sick leave < 3 days: contact team lead and cients for approval and follow the standard process in Vacation section to send out the invitation (reminder is not needed)
+- Sick leave ≥ 3 dconsective ays:
+  - Suuporting documen is required
+  - Additionally, the company may require an employee to provide written confirmation that an emplyee used paid sick time in accordance with this policy
+  - For more information, please refer to KMK Handbook Sick Leave section
+
+### Deltek & Monthly Tracker
+- Please entry [Deltek](https://erp.kmkconsultinginc.com/DeltekTouch/Vision/Time/) at daily base and submit the timesheet before the 10:00 am of first working day in each month
+- Please list out all projects and tasks, for example:
+
+  1. On-board project training<br/>1) meeting with team lead<br/>2) revise assignment 1<br/>2. Weekly Meeting
+  {: .fs-3 .code-example}
