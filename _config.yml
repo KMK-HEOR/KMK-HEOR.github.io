@@ -9,6 +9,6 @@ back_to_top_text: "Back to top"
 
 # Aux links for the upper right navigation
 aux_links:
-  "KMK HEOR On-board on GitHub":
+  "KMK HEOR on Githb":
     - "https://kmk-heor.github.io"
 aux_links_new_tab: false
