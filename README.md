@@ -1,7 +1,3 @@
-# KMK-HEOR.github.io
-
-test test test
-
-```{r}
-test
-```
+# Basic Requirements
+# Checklist
+# Best Practice for Projects
