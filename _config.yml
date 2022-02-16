@@ -12,3 +12,6 @@ aux_links:
   "KMK HEOR on Githb":
     - "https://kmk-heor.github.io"
 aux_links_new_tab: false
+
+# Color scheme
+color_scheme: anne_theme
