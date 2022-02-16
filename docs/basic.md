@@ -31,7 +31,7 @@ KMK/Novartis office policies and requirements
 - Standard process:
   - Contact your team lead about the vacation plan
   - Send an email to the client manager to ask for approval
-  - Send a meeting invitation to **ALL** KMK Global HEOR team members on the date you want to take vacation and select Show As **FREE**
-  - Go to calendar in your Outlook, change the meeting show status to **Out of Office**
+  - Send a meeting invitation to **ALL** KMK Global HEOR team members on the date you want to take vacation and select `Show As Free` in the ribbon
+  - Go to calendar in your Outlook, change the meeting status to `Show As Out of Office` in the ribbon
   - Set up auto-reply email
   - Send out the reminder to all team members and clients couple days ahead
