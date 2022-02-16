@@ -16,12 +16,14 @@ Here are some tips that would help you get ready to work.
 - Please send a greeting email to  [Raymond](raymond.przybysz@novartis.com)  and copy to  [Anne](yen-hua.chen@novartis.com)  and  [Lujia](lujia.zhou@novartis.com)  
 - Please import **Novartis Holiday** to your Outlook with following steps:
 
-  File > Options > Calendar > Calendar Options > Add Holidays > USUS (current year) {: .fs-3 .ls-5 .code-example }
+  File > Options > Calendar > Calendar Options > Add Holidays > USUS (current year)
+  {: .fs-3 .ls-5 .code-example }
   
 - Please set up your signature with the format:
 
 
-  **Your Name** <br/>KMK Consulting, Inc.<br/>providing services for Novartis Pharmaceuticals Corporation<br/>Novartis phone: (you don’t have it now, just remove this line but add it back when you get one)<br/>Novartis E-mail: your.email@novartis.com<br/>One Health Plaza, East Hanover, NJ 07936-1080 USA {: .fs-3 .ls-5 .code-example }
+  **Your Name** <br/>KMK Consulting, Inc.<br/>providing services for Novartis Pharmaceuticals Corporation<br/>Novartis phone: (you don’t have it now, just remove this line but add it back when you get one)<br/>Novartis E-mail: your.email@novartis.com<br/>One Health Plaza, East Hanover, NJ 07936-1080 USA
+  {: .fs-3 .ls-5 .code-example }
 
 ---
 
