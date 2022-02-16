@@ -17,7 +17,7 @@ Here are some tips that would help you get ready to work.
 - Please import **Novartis Holiday** to your Outlook with following steps:
 
   File > Options > Calendar > Calendar Options > Add Holidays > USUS (current year)
-  {: .fs-5 .ls-10 .code-example }
+  {: .fs-3 .ls-5 .code-example }
   
 - Please set up your signature with the format:
 <div class = "code-example" markdown = "1">
