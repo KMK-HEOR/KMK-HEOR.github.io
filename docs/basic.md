@@ -24,7 +24,7 @@ KMK/Novartis office policies and requirements
 - Deltek should reflect your accurate working hours
 
 ### Vacation
-- To take any time-off, please contact your manager and clients first
+- To take any time-off, please contact your team lead and clients first
 - Before making any plan, please make sure your project will **NOT** be affected by any days off
 - For vacation < 3 days, please notify the team at least 3 days in advance
 - For vacation ≥ 3 days, please plan it at least 3 weeks ahead
@@ -40,3 +40,14 @@ KMK/Novartis office policies and requirements
   - Go to calendar in your Outlook, change the meeting status to `Show As Out of Office` in the ribbon
   - Set up auto-reply email
   - Send out the reminder to all team members and clients couple days ahead
+
+### Vacation -- Urgent
+- Less than 2 days
+  - For example: You need to take care of your family members vecause they are ill
+  - Please notify your team lead once you are aware of the situation
+  - If you are sure that there is no effect on your project delivery, then it's fine
+  - If you notice that the project timeline might be affected, please let your team lead know ASAP that we can have someone to back up the project delivery
+  - Perfornace review expectation:
+    - No effect on project delivery: Meet expecation
+    - No effect on project delivery with back-up: Partial meet expectation
+    - Delay delivery: Not acceptable
