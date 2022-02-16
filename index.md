@@ -1,6 +1,6 @@
 ---
 layout: default
-title: KMK HEOR On-Board Materials
+title: Home
 nav_order: 1
 ---
 # Welcome
