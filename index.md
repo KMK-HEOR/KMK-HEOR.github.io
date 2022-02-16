@@ -4,7 +4,7 @@ title: Home
 nav_order: 1
 ---
 
-## **Welcome**
+## Welcome
 Greeting to our new team member, welcome to Novartis Evidence & Launch Excellence support team.
 
 ---
