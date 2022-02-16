@@ -16,7 +16,7 @@ Welcome to KMK Novartis ELE support. Here are some tips that would help you get 
 - [ ] Please set up your signature with the format:
 
 <div>
-**Your Name**<br/>
+Your Name <br/>
 KMK Consulting, Inc.<br/>
 providing services for Novartis Pharmaceuticals Corporation<br/>
 Novartis phone: (you don’t have it now, just remove this line but add it back when you get one)<br/>
