@@ -1,4 +1,4 @@
-name: KMK HEOR On-board Material
+title: KMK HEOR On-board Material
 remote_theme: pmarsceill/just-the-docs
 
 exclude: ["README.md"]
