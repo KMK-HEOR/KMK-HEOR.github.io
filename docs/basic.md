@@ -9,7 +9,9 @@ nav_order: 2
 
 KMK/Novartis office policies and requirements
 
+1. TOC
 {:toc}
+
 ---
 
 ### Office Hour
