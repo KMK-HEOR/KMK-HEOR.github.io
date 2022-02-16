@@ -20,7 +20,6 @@ Here are some tips that would help you get ready to work.
   {: .fs-5 .ls-10 .code-example }
   
 - Please set up your signature with the format:
-
 <div class = "code-example" markdown = "1">
   **Your Name** <br/>
   KMK Consulting, Inc.<br/>
