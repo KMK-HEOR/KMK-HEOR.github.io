@@ -70,5 +70,5 @@ KMK/Novartis office policies and requirements
 - Please entry [Deltek](https://erp.kmkconsultinginc.com/DeltekTouch/Vision/Time/) at daily base and submit the timesheet before the 10:00 am of first working day in each month
 - Please list out all projects and tasks, for example:
 
-  1. On-board project training<br/>1) meeting with team lead<br/>2) revise assignment 1<br/>2. Weekly Meeting
+  On-board project training<br/>1) meeting with team lead<br/>2) revise assignment 1<br/><br/>Weekly Meeting
   {: .fs-3 .code-example}
