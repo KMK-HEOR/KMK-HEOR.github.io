@@ -58,3 +58,5 @@ KMK/Novartis office policies and requirements
   - *This should be a really rare situation for almost everyone*
   - Performance review expectation:
     - No effect on performance review
+
+### Sick Leave
