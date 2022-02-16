@@ -39,7 +39,7 @@ KMK/Novartis office policies and requirements
   - Send a meeting invitation to **ALL** KMK Global HEOR team members on the date you want to take vacation and select `Show As Free` in the ribbon
   - Go to calendar in your Outlook, change the meeting status to `Show As Out of Office` in the ribbon
   - Set up auto-reply email
-  - Send out the reminder to all team members and clients couple days ahead
+  - Send out the reminder to all team members and all direct-related clients couple days ahead
 
 ### Vacation -- Urgent
 - Less than 2 days
@@ -51,3 +51,10 @@ KMK/Novartis office policies and requirements
     - No effect on project delivery: Meet expecation
     - No effect on project delivery with back-up: Partial meet expectation
     - Delay delivery: Not acceptable
+- More than 3 days
+  - For example: Special family reason that you need to take days off 2 weeks
+  - Please notify team lead and explain the reason why you need these times off, your team lead can decide to approve ot not
+  - Team lead will help find back-up person for all on-going project and please help on transition
+  - *This should be a really rare situation for almost everyone*
+  - Performance review expectation:
+    - No effect on performance review
