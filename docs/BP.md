@@ -12,4 +12,6 @@ nav_order: 3
 ---
 
 ### Mindset
+
 #### What is our responsibility?
+{: .no_toc}
