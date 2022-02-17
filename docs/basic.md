@@ -34,7 +34,6 @@ KMK/Novartis office policies and requirements
   File > Automatic Replies (Out of Office) > (select) Send automatic replies during time range<br/>
   {: .fs-3 .code-example} 
   
-  <br/>
   Sample content:<br/>Dear sender,<br/>Thank you for the email. I'm out of office on XXX with limited access to email. If you need immediate assitance, pleasee contact my supervisor XXX at XXX@novartis.com
    {: .fs-3 .code-example} 
 - Standard process:
