@@ -35,7 +35,8 @@ KMK/Novartis office policies and requirements
   {: .fs-3 .code-example} 
   
   - Sample content:
-  
+ 
+ 
     Dear sender,<br/>Thank you for the email. I'm out of office on XXX with limited access to email. If you need immediate assitance, pleasee contact my supervisor XXX at XXX@novartis.com
    {: .fs-3 .code-example} 
 - Standard process:
