@@ -6,7 +6,7 @@ nav_order: 3
 ## Best Practice for Projects
 {: .no_toc}
 
-1 TOC
+1. TOC
 {:toc}
 
 ---
