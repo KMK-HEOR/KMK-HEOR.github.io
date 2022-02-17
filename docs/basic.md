@@ -77,3 +77,8 @@ KMK/Novartis office policies and requirements
 
   On-board project training<br/>1) meeting with team lead<br/>2) revise assignment 1<br/><br/>Weekly Meeting
   {: .fs-3 .code-example}
+
+### KMK Company Event
+- All KMK employees are required to attend all company events, when estimating timeline, please take company event into consideration
+- Exception: urgent request, heavy workload...
+- Please notify your team lead if you are not attending company event with a solid reason for all cares
