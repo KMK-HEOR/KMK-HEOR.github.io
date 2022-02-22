@@ -40,7 +40,7 @@ KMK/Novartis office policies and requirements
    {: .fs-3 .code-example} 
 - Standard process:
   - Contact your team lead about the vacation plan
-  - Send an email to the client manager to ask for approval
+  - If you plan to take vacation for more than 1 day, please send an email to the client manager to ask for approval (you don't need clients' approval for PTO ≤ 1 day)
   - Send a meeting invitation to **ALL** KMK Global HEOR team members on the date you want to take vacation and select `Show As Free` in the ribbon
   - Go to calendar in your Outlook, change the meeting status to `Show As Out of Office` in the ribbon
   - Set up auto-reply email
@@ -66,7 +66,7 @@ KMK/Novartis office policies and requirements
 
 ### Sick Lleave
 - Sick leave < 3 days: contact team lead for approval and send out the invitation to KMK team (reminder is not needed)
-- Sick leave ≥ 3 dconsective ays:
+- Sick leave ≥ 3 consective days:
   - Suuporting documen is required
   - Additionally, the company may require an employee to provide written confirmation that an emplyee used paid sick time in accordance with this policy
   - For more information, please refer to KMK Handbook Sick Leave section
