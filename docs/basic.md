@@ -28,7 +28,7 @@ KMK/Novartis office policies and requirements
 - Before making any plan, please make sure your project will **NOT** be affected by any days off
 - For vacation < 3 days, please notify the team at least 3 days in advance
 - For vacation ≥ 3 days, please plan it at least 3 weeks ahead
-- Please send the reminder to the team and copy your clients abot the vacation couple days ahead
+- Please send the reminder to the team and copy your clients about the vacation couple days ahead
 - Please set up the auto-reply email:
 
   File > Automatic Replies (Out of Office) > (select) Send automatic replies during time range<br/>
@@ -64,11 +64,11 @@ KMK/Novartis office policies and requirements
   - Performance review expectation:
     - No effect on performance review
 
-### Sick Lleave
+### Sick Leave
 - Sick leave < 3 days: contact team lead for approval and send out the invitation to KMK team (reminder is not needed)
 - Sick leave ≥ 3 consective days:
-  - Suuporting documen is required
-  - Additionally, the company may require an employee to provide written confirmation that an emplyee used paid sick time in accordance with this policy
+  - Supporting document is required
+  - Additionally, the company may require an employee to provide written confirmation that an emplyee uses paid sick time in accordance with this policy
   - For more information, please refer to KMK Handbook Sick Leave section
 
 ### Deltek & Monthly Tracker
@@ -80,5 +80,5 @@ KMK/Novartis office policies and requirements
 
 ### KMK Company Event
 - All KMK employees are required to attend all company events, when estimating timeline, please take company event into consideration
-- Exception: urgent request, heavy workload...
+- Exception: urgent request, heavy workload, etc
 - Please notify your team lead if you are not attending company event with a solid reason for all cares
