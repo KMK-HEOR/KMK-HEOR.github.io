@@ -16,6 +16,7 @@ nav_order: 3
 #### What is our responsibility?
 {: .no_toc}
 - We are here to help clients' success!
+{: .text-red-100}
   - Figure out what are clients' needs and objectives
   - Align with your clients. You are not in the opposite positions
   - Provide your expertise to help clients clarify business needs
