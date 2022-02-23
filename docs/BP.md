@@ -35,3 +35,16 @@ nav_order: 3
   - Do NOT explain why we cannot do it all along
   - Discuss the way to avoid those situations in future
 - Be prepared to work overtime for urgent and high priority projects if it is inevitable
+
+#### Work flow with client
+{: .no_toc}
+```mermaid
+flowchart LR;
+A(Project Triage) --> B(Kickoff Meeting);
+B --> C(Change of Scope);
+C --> D(Result Delivery);
+D --> E(Follow-up Analysis);
+```
+||More details|
+|:---|:---|
+|Project Triage|- New request via Email:<br/>a) Request a discussion/meeting with analytical lead (avoid communication via emails)<br/>b) Before the discussion/meeting, review related materials, prepare questions, and estimate timeline <br/>- New request directly from a meeting:<br/>a) Provide meeting minutes after the meeting<br/>b) Raise any possible questions related to the request, determine difficulty about the project, and estimate timeline|
