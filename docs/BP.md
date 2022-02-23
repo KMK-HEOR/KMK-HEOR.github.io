@@ -24,7 +24,6 @@ nav_order: 3
   - Client is the one to make final decision
   - It is okay to have disagreement with the decisions, BUT need commitment
   - Document each step of decision making and the risk/limitation via email, then archive email
-  - 
 
 #### How to achieve this goal?
 {: .no_toc}
