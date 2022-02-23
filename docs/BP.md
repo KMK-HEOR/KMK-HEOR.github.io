@@ -27,8 +27,10 @@ nav_order: 3
 
 #### How to achieve this goal?
 {: .no_toc}
-###### Aim to solve the problem!
-{: .no_toc}
+
+Aim to solve the problem!
+{: .label .label-yellow-000}
+
 - If there is a conflict, propose solutions/options along with providing sufficient evidences for challenges/difficulties
   - Express your understanding and intention to solve the problem
   - Ask clients' needs at minimum level and provide options
