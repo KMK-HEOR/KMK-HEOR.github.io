@@ -24,7 +24,7 @@ nav_order: 3
    - [OPTUM EHR & Clinformatics Data Training for Real World Evidence](https://novartis.csod.com/ui/lms-learning-details/app/course/c2965529-073b-4207-9ac1-c38b16427e4d){:target="_blank"}
    - Feel free to search MarketScan or Optum to get more training on up4growth
 
-### Introduction of Data42/Foundry
+### Introduction to Data42/Foundry
 - Go to [Welcome page](https://foundry.novartis.com/workspace/documentation/product/platform/overview){:target="_blank"} provided by Foundry to get familiar with the platform and finish the tutorials
 - Go to [User Docs](https://foundry.novartis.com/workspace/documentation/){:target="_blank"} and find:
    - [Investigations](https://foundry.novartis.com/workspace/documentation/product/investigations/overview){:target="_blank"}
