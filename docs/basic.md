@@ -72,7 +72,7 @@ KMK/Novartis office policies and requirements
   - For more information, please refer to KMK Handbook Sick Leave section
 
 ### Deltek & Monthly Tracker
-- Please entry [Deltek](https://erp.kmkconsultinginc.com/DeltekTouch/Vision/Time/) at daily base and submit the timesheet before the 10:00 am of first working day in each month
+- Please entry [Deltek](https://erp.kmkconsultinginc.com/DeltekTouch/Vision/Time/){:target="_blank"} at daily base and submit the timesheet before the 10:00 am of first working day in each month
 - Please list out all projects and tasks, for example:
 
   On-board project training<br/>1) meeting with team lead<br/>2) revise assignment 1<br/><br/>Weekly Meeting<br/><br/>Project ABC<br/>1) Meeting with Client A<br/>2) Create cohort
