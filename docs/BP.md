@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Best Practice
-nav_order: 3
+nav_order: 4
 ---
 ## Best Practice for Projects
 {: .no_toc}
