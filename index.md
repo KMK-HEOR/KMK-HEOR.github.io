@@ -11,8 +11,8 @@ Greeting to our new team member, welcome to Novartis Evidence & Launch Excellenc
 ### Getting Start
 Here are some tips that would help you get ready to work.
 
-- Please go to [about (to) go](https://go/:about/#edit) page to set up the short cut `go/***` for Novartis pages  
-- Please go to [up4growth](https://novartis.csod.com/ui/lms-learner-home/home?utm_source=Welcome_Page&utm_medium=tile&utm_campaign=Learner_Home) (or with short-cut `go/up4growth`) to check whether you have any assignment. Please finish it before the due date, or the system will send notification to our manager (which should definitely be avoided)  
+- Please go to [about (to) go](https://go/:about/#edit){:target="_blank"} page to set up the short cut `go/***` for Novartis pages  
+- Please go to [up4growth](https://novartis.csod.com/ui/lms-learner-home/home?utm_source=Welcome_Page&utm_medium=tile&utm_campaign=Learner_Home){:target="_blank"} (or with short-cut `go/up4growth`) to check whether you have any assignment. Please finish it before the due date, or the system will send notification to our manager (which should definitely be avoided)  
 - Please send a greeting email to [Raymond](mailto:raymond.przybysz@novartis.com) and copy to [Anne](mailto:yen-hua.chen@novartis.com) and [Lujia](mailto:lujia.zhou@novartis.com)  
 - Please import **Novartis Holiday** to your Outlook with following steps:
 
