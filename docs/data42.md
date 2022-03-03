@@ -19,3 +19,7 @@ nav_order: 5
 - Finish the [on-board training](https://data42.aws.novartis.net/get-access/) and get access to the platform
 
 ### Access to data
+- Go to [Up4Growth](https://novartis.csod.com/ui/lms-learner-home/home?utm_source=Welcome_Page&utm_medium=tile&utm_campaign=Learner_Home) and finish the follwing training:
+   - [MarketScan Data Training for Real World Evidence](https://novartis.csod.com/ui/lms-learning-details/app/course/fea69830-00e6-4b6f-b337-61a8f6ac5e39)
+   - [OPTUM EHR & Clinformatics Data Training for Real World Evidence](https://novartis.csod.com/ui/lms-learning-details/app/course/c2965529-073b-4207-9ac1-c38b16427e4d)
+   - Feel free to search MarketScan or Optum to get more training on up4growth
