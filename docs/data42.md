@@ -14,7 +14,7 @@ nav_order: 5
 
 ### Access to Data42
 
-- Access to Data42, with the link: [Data42](https://foundry.novartis.com/workspace/slate/documents/welcome)
+- Access to Data42, with the link: [Data42](https://foundry.novartis.com/workspace/slate/documents/welcome){:target="_blank"}
 - Please first set up your authenticator after receiving the welcome email
 - Finish the [on-board training](https://data42.aws.novartis.net/get-access/) and get access to the platform
 
