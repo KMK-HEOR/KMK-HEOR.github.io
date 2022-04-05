@@ -14,7 +14,7 @@ nav_order: 4
 ### Mindset
 
 #### What is our responsibility?
-{.text-purple-000}
+{: .text-purple-000}
 #### We are here to help clients' success!
 {: .no_toc .text-red-100}
 - Figure out what are clients' needs and objectives
@@ -26,6 +26,7 @@ nav_order: 4
   - Document each step of decision making and the risk/limitation via email, then archive email
 
 #### How to achieve this goal?
+{: .text-purple-000}
 #### Aim to solve the problem!
 {: .no_toc .text-red-100}
 - If there is a conflict, propose solutions/options along with providing sufficient evidences for challenges/difficulties
@@ -51,6 +52,7 @@ nav_order: 4
 
 ### Timeline
 #### Factors need to be considered when estimating timeline
+{: .text-purple-000}
 - Timeline estimation consideration
   - Consistency across the whole team (e.g. 2 weeks for cohort building), please consult your team lead
   - Necessary information (i.e. project scope, study codes, etc) collection
@@ -67,6 +69,7 @@ nav_order: 4
 - **Timeline estimation should be consistent across the team, no matter the experience levels**
 
 #### Whether and how to negotiate the timeline
+{: .text-purple-000}
 - **Not every deadline should be negotiated**, don't negotiate resonable timeline. If you can't decide, please consult your team lead
 - Before sending out the negotiation request, please
   - Clarify the importance and priority of the project with analytical lead
@@ -84,6 +87,7 @@ nav_order: 4
   - Notify your team lead
 
 #### When timeline has been determined
+{: .text-purple-000}
 - Stick on timeline
   - **Delay** project without agreement with clients is **not acceptable**
   - Please try to deliver the result during the working hour
@@ -94,6 +98,7 @@ nav_order: 4
 
 ### Responsibilities for programmers
 #### Leadership of primary programmer
+{: .text-purple-000}
 - Attend all related meeting and lead the discussion with clients
 - Work directly with the client
 - Send out emails to summarize meeting mintes and any change of the project discussed previously.
@@ -106,6 +111,7 @@ nav_order: 4
  - Summarize findings when delivering result. Double check the spelling, grammar, and unify the format
 
 #### Responsibilities of QC programmer
+{: .text-purple-000}
 - Attend related meetings
 - Strictly follow the QC timeline
 - Disucss with primary programmer about any findings or discrepancies
