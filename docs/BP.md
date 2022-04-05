@@ -39,7 +39,13 @@ nav_order: 4
 #### Work flow with client
 
 |**1. Project Triage**|
-|- New request via Email:<br/>a) Request a discussion/meeting with analytical lead (avoid communication via emails)<br/>b) Before the discussion/meeting, review related materials, prepare questions, and estimate timeline <br/>- New request directly from a meeting:<br/>a) Provide meeting minutes after the meeting<br/>b) Raise any possible questions related to the request, determine difficulty about the project, and estimate timeline|
+|- Receive new project from team lead<br/>- Request a discussion with analytical lead (avoid communication, please via emails)<br/>- Before the meeting, review related materials, prepare questions, determine the difficulty, and estimate the timeline|
 |**2. Kickoff Meeting**|
-|- Clarify project scope and timeline|
+|- Clarify project scope and timeline<br/>- Propose a reasonable timeline, or ask analytical lead for a hard timeline|
 |- Resonable timeline:<br/>a) Send out meeting minutes, including project scope, necessary documents, with timeline via email<br/>- Unreasonable timeline<br/>a) Provide evidence and propose solution<br/>b) Reach and negotiate for a timeline agree by both<br/>c) Send out meeting minutes, including proejct scope, necessary documents, with new timeline via email|
+|**3. Change Scope**|
+|- Confirm the change<br> - Clarify the new scope<br/> - Re-evaluate the timeline|
+|**4. Deliver Result**|
+|- Check the spelling, grammar, and unify the format<br/> - Summarize key findings in the email<br/>- Check with analytical lead whether to have a review together|
+|**5. Postscript**|
+|-If any follow-up project, go through the process again<br/> - Archive all the necessary emails, such as confirming project scope, timeline, result delivery, etc|
