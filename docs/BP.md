@@ -95,3 +95,24 @@ nav_order: 4
   - Not every change needs to adjust timeline
   - Need client's agreement on the new timeline
   - Must document the change of scope and timeline via email, remember to archive the email
+
+### Responsibilities for programmers
+#### Leadership of primary programmer
+{: .no_toc}
+- Attend all related meeting and lead the discussion with clients
+- Work directly with the client
+- Send out emails to summarize meeting mintes and any change of the project discussed previously.
+  - Should clearly record the timeline
+  - Mark the change with *bright color* in the emails
+  - Use *track chagnes* in word files
+- QC the result (self or secondary): 
+  - Arrange QC steps and QC timeline
+  - Fully explain the logic to the QC programmers and take their comments into consideration
+ - Summarize findings when delivering result. Double check the spelling, grammar, and unify the format
+
+#### Responsibilities of QC programmer
+{: .no_toc}
+- Attend related meetings
+- Strictly follow the QC timeline
+- Disucss with primary programmer about any findings or discrepancies
+- Request primary programmer to initiate discussion with client if there is any conflict opnions between 2 programmers
