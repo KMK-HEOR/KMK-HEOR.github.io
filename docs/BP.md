@@ -53,7 +53,8 @@ D --> E(Follow-up Analysis);
 
 
 
-(avoidcommunication via emails)<br/>b) Before the discussion/meeting, review related materials, prepare questions, and estimate timeline <br/>- New request directly from a meeting:<br/>a) Provide meeting minutes after the meeting<br/>b) Raise any possible questions related to the request, determine difficulty about the project, and estimate timeline|
+|(avoidcommunication via emails)<br/>b) Before the discussion/meeting, review related materials, prepare questions, and estimate timeline <br/>- New request directly from a meeting:<br/>a) Provide meeting minutes after the meeting<br/>b) Raise any possible questions related to the request, determine difficulty about the project, and estimate timeline|
+|test|
 
 
 | Selector              | Small screen size `font-size`    | Large screen size `font-size` |
