@@ -46,5 +46,5 @@ nav_order: 4
 
 
 
-|2. Kickoff Meeting|
+|**2. Kickoff Meeting**|
 |- Clarify project scope and timeline|
