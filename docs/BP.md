@@ -67,3 +67,31 @@ nav_order: 4
     - Programming logic: identify the problem of their logic
     - Unfamiliar syntax, function, or model: please provide keywords or supporting documents, websites
 - **Timeline estimation should be consistent across the team, no matter the experience levels**
+
+#### Whether and how to negotiate the timeline
+{: .no_toc}
+- **Not every deadline should be negotiated**, don't negotiate resonable timeline. If you can't decide, please consult your team lead
+- Before sending out the negotiation request, please
+  - Clarify the importance and priority of the project with analytical lead
+  - Understand analytical lead's needs, e.g. whether it's a hard timeline
+- While negotiating the timeline for a regular project, please provide:
+  - New timeline, or separate original reqest into several milestone (which we could provide partial result to the analytical lead)
+  - **Sufficient evidences** to convince clients why this timeline is hard to meet:
+    - Current **workload** (please let your team lead know if you are fully occupied by other projects before discussing with the analytical lead)
+    - **Complexity** of the project
+    - Unstable server
+- If its an **urgent project** which requires work overtime
+  - Express the **understanding of the urgency**
+  - Clarify this is **not common practice**
+  - Estimate how many **extra** hours you need
+  - Notify your team lead
+
+#### When timeline has been determined
+{: .no_toc}
+- Stick on timeline
+  - **Delay** project without agreement with clients is **not acceptable**
+  - Please try to deliver the result during the working hour
+- Adjust timeline according to the change of scope
+  - Not every change needs to adjust timeline
+  - Need client's agreement on the new timeline
+  - Must document the change of scope and timeline via email, remember to archive the email
