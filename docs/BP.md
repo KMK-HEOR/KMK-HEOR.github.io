@@ -52,7 +52,7 @@ D --> E(Follow-up Analysis);
 
 | Selector              | Small screen size `font-size`    | Large screen size `font-size` |
 |:----------------------|:---------------------------------|:------------------------------|
-| `h1`, `.text-alpha`   | 32px                             | 36px                          |
+| `h1`, `.text-alpha`   | 3<br/>2px                        | 36px                          |
 | `h2`, `.text-beta`    | 18px                             | 24px                          |
 | `h3`, `.text-gamma`   | 16px                             | 18px                          |
 | `h4`, `.text-delta`   | 14px                             | 16px                          |
