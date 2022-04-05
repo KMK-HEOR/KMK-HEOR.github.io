@@ -41,8 +41,8 @@ nav_order: 4
 |- New request via Email:<br/>a) Request a discussion/meeting with analytical lead|
 
 
-
-(avoid communication via emails)<br/>b) Before the discussion/meeting, review related materials, prepare questions, and estimate(avoidcommunication via emails)<br/>b) Before the discussion/meeting, review related materials, prepare questions, and estimate timeline <br/>- New request directly from a meeting:<br/>a) Provide meeting minutes after the meeting<br/>b) Raise any possible questions related to the request, determine difficulty about the project, and estimate timeline|
+|1. Project Triage|
+|(avoid communication via emails)<br/>b) Before the discussion/meeting, review related materials, prepare questions, and estimate(avoidcommunication via emails)<br/>b) Before the discussion/meeting, review related materials, prepare questions, and estimate timeline <br/>- New request directly from a meeting:<br/>a) Provide meeting minutes after the meeting<br/>b) Raise any possible questions related to the request, determine difficulty about the project, and estimate timeline|
 
 
 
