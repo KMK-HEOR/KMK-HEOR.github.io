@@ -36,7 +36,7 @@ nav_order: 4
   - Discuss the way to avoid those situations in future
 - Be prepared to work overtime for urgent and high priority projects if it is inevitable
 
-#### Work flow with client
+### Work flow with client
 
 |**1. Project Triage**|
 |- Receive new project from team lead<br/>- Request a discussion with analytical lead (avoid communication, please via emails)<br/>- Before the meeting, review related materials, prepare questions, determine the difficulty, and estimate the timeline|
@@ -48,4 +48,22 @@ nav_order: 4
 |**4. Deliver Result**|
 |- Check the spelling, grammar, and unify the format<br/> - Summarize key findings in the email<br/>- Check with analytical lead whether to have a review together|
 |**5. Postscript**|
-|-If any follow-up project, go through the process again<br/> - Archive all the necessary emails, such as confirming project scope, timeline, result delivery, etc|
+|- If any follow-up project, go through the process again<br/> - Archive all the necessary emails, such as confirming project scope, timeline, result delivery, etc|
+
+### Timeline
+#### Factors need to be considered when estimating timeline
+{: .no_toc}
+- Timeline estimation consideration
+  - Consistency across the whole team (e.g. 2 weeks for cohort building), please consult your team lead
+  - Necessary information (i.e. project scope, study codes, etc) collection
+  - Complexity of the project
+  - Stability and the performance of the server
+  - QC level
+  - Other workload
+- Additional timeline estimation consideration for proejct lead
+  - Junior may need more time
+  - Please help junior analyst to address the problem when the proejct takes longer than usual time
+    - Programming structure: help them to re-structure (e.g. lower the time/space complexity) and improve the efficiency
+    - Programming logic: identify the problem of their logic
+    - Unfamiliar syntax, function, or model: please provide keywords or supporting documents, websites
+- **Timeline estimation should be consistent across the team, no matter the experience levels**
